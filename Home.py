@@ -1,9 +1,6 @@
 import streamlit as st
 
-#st.set_page_config(
-#page_title="Hello",
-#page_icon="👋"
-#)
+
 st.set_page_config(
     page_title="Customer Churn Prediction",
     page_icon="📊",
@@ -21,11 +18,11 @@ st.sidebar.success("Select what you want to perform")
 
 
 # Title
-st.title("📊 Customer Churn Prediction")
+st.title("📊 Customer Churn Prediction & Revenue-at-Risk Analytics")
 st.subheader("A Machine Learning Project")
 
 st.write("""
-Welcome to my Customer Churn Prediction project!
+Welcome to my Customer Churn Prediction & Revenue-at-Risk Analytics project!
 
 This project uses machine learning to predict whether a customer
 is likely to leave a company's service. It also includes data
