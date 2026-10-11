@@ -213,7 +213,8 @@ Potential applications include:
 
 The dashboard is intended to support analysis and decision-making, not to guarantee that customers will churn or that a specific amount of revenue will be lost.
 
-
+## Direct Link to Streamlit
+https://customer-churn-and-revenue-analysis.streamlit.app/
 
 ## 👨‍💻 Author
 
